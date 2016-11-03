@@ -9,4 +9,6 @@
 8. Back in terminal, type in git add file.txt 
 9. Next, commit by typing git commit m- "Newly added for gitquiz"
 10. Then, push the file to finally save in github.com by git push
-11. Once the pushing process is done, close all the tabs and logout inorder to leave the class.
+11. Type in kano2481-cmis-wd (or the username for github) to where it is required, then click enter.
+12. Type in the password for the github account then click enter in order to coplete the process.
+13. Once the pushing process is done, close all the tabs and logout inorder to leave the class.
