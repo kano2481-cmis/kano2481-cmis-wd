@@ -1,0 +1,12 @@
+1. Come into classroom and open the computer
+2. Log in and open terminal to clone
+3. paste, git clone --config="http.proxy=http://kano2481:kantthinkofanome@192.168.2.1:8080" https://github.com/kano2481-cmis/kano2481-cmis-wd.git
+0"  onto terminal and hit enter to clone
+4. Type "ls" to view all the files on the computer I am working on
+5. To open my own file, type cd kano2481-cmis-wd
+6. Type the comand, "gedit file.txt &" to open gedit which allows to edit the newly made folder. 
+7. Save the edited gedit text using Ctrl s 
+8. Back in terminal, type in git add file.txt 
+9. Next, commit by typing git commit m- "Newly added for gitquiz"
+10. Then, push the file to finally save in github.com by git push
+11. Once the pushing process is done, close all the tabs and logout inorder to leave the class.
