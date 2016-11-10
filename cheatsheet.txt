@@ -9,4 +9,12 @@ localhost:8000<file name>: to view page
 Ctrl U : view source code
 Validate by copy and paste 
 Fix error and re add, commit, push to save on github
+To publicate files,
+go into the file by cd kano2481-cmis-wd
+type sftp kano2481@cmis-hsteacher
+type password in CAPS
+cd public_html
+pwd to check where I am,
+type in, put file name
+
 
