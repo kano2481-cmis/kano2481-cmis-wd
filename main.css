@@ -1,0 +1,29 @@
+/* all the properties I used 
+1.colour, 2.font-size, 3.background-color, 4.font-style, 5.text-align, 6.margin-top, 7.margin-left, 8.border-style, 9.border-width,10.border-color, 11.*/
+
+html{
+	background-color: black;
+	margin-top: 30px;
+	margin-left: 25px;
+}
+	body{
+	color: white;
+}
+
+h1{
+	text-align: center;
+	font-style: oblique;
+	font-size: 36px;
+	margin-top: 25px;
+}
+h2{
+}
+p{
+	border-style: double;
+	border-width: 5px;
+	border-color: #6BFFEE;
+	margin: 35px;
+}
+footer{
+	margin: 20px;
+}
