@@ -1,5 +1,5 @@
 /* all the properties I used 
-1.colour, 2.font-size, 3.background-color, 4.font-style, 5.text-align, 6.margin-top, 7.margin-left, 8.border-style, 9.border-width,10.border-color, 11.*/
+1.colour, 2.font-size, 3.background-color, 4.font-style, 5.text-align, 6.margin-top, 7.margin-left, 8.border-style, 9.border-width,10.border-color,11.font family 12.position, 13. padding 14.border,15.border-radius 16.box-shadow 17.text-shadow */
 
 html{
 	background-color: black;
@@ -8,13 +8,21 @@ html{
 }
 	body{
 	color: white;
+	
 }
 
-h1{
+h1{	border: 5px dotted black;
+    	padding:35px;
+    	background: yellow;
 	text-align: center;
 	font-style: oblique;
+	text-shadow: 2px 2px 2px blue;
 	font-size: 36px;
+	border-radius: 15px 45px; 
 	margin-top: 25px;
+	color: black
+	
+	
 }
 h2{
 }
@@ -22,8 +30,12 @@ p{
 	border-style: double;
 	border-width: 5px;
 	border-color: #6BFFEE;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 	margin: 35px;
+	box-shadow: 10px 10px 5px #888888;
 }
 footer{
 	margin: 20px;
+	position: absolute;
+
 }
