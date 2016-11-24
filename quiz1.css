@@ -1,0 +1,15 @@
+html{
+}
+
+body{
+	background-color: pink;
+	margin-top: 10px;
+	border-left: dotted red 30px;
+}
+h1{
+	text-size:50px;
+	text-color: red;
+	border-bottom: black
+}
+h2{
+}
