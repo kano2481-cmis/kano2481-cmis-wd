@@ -1,10 +1,10 @@
 /* all the properties I used 
-1.colour, 2.font-size, 3.background-color, 4.font-style, 5.text-align, 6.margin-top, 7.margin-left, 8.border-style, 9.border-width,10.border-color,11.font family 12.position, 13. padding 14.border,15.border-radius 16.box-shadow 17.text-shadow */
+1.colour, 2.font-size, 3.background-color, 4.font-style, 5.text-align, 6.margin-top, 7.margin-left, 8.border-style, 9.border-width,10.border-color,11.font family 12.position, 13. padding 14.border,15.border-radius 16.box-shadow 17.text-shadow 18. text-decoration 19.letter spacing 20. word-spacing*/
 
 html{
 	background-color: black;
 	margin-top: 30px;
-	background: -webkit-radial-gradient(circle, MidnightBlue, Aqua , White)
+	background: -webkit-radial-gradient(circle, MidnightBlue, Aqua , White);
 }
 
 	 
@@ -24,14 +24,14 @@ h1{
 	font-size: 36px;
 	border-radius: 15px 45px; 
 	margin-top: 25px;
-	color: black
-
+	color: black;
+	text-decoration: underline;
 }
 	
 	
 }
 h2{
-	
+
 }
 p{
 	border-style: double;
@@ -41,12 +41,14 @@ p{
 	margin: 35px;
 	box-shadow: 10px 10px 5px #888888;
 	padding-top: 10px;
-	padding-right: 20px
+	padding-right: 20px;
 	padding-left: 20px;
+	text-decoration: underline;
 }
 footer{
 	margin: 20px;
 	position: absolute;
-	
-
+	color: yellow;
+	letter-spacing: 1px;
+	word-spacing: 2px;
 }
