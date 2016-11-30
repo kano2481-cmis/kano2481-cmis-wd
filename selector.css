@@ -29,17 +29,16 @@ html{
 
 	 
 	body{
-	color: white;
-	
+	color: navy;
 }
 
 h1{
 	border: 5px dotted black;
     	padding:35px;
-    	background: #FFFFA6;
+    	background: #FFFFcc;
 	text-align: center;
 	font-style: oblique;
-	text-shadow: 2px 2px 2px blue;
+	text-shadow: 2px 2px 2px purple;
 	font-size: 36px;
 	border-radius: 15px 45px; 
 	margin-top: 25px;
@@ -49,8 +48,9 @@ h1{
 	
 	
 h2{
-
+	color: black;
 }
+
 p{
 	border-style: double;
 	border-width: 5px;
