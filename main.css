@@ -20,36 +20,49 @@
 *Upload to the production server with sftp.
 *View your index.html in the production server.*/
 /*1. I learnt how to upload the production server with sftp 2.I learnt how to view my development server while I work on this project*/
+/*declaration for each element, nav, main, head..., units use mm, etc more than just px, */
 
 html{
 	background-color: black;
-	margin-top: 30px;
+	margin-top: 10mm;
 	background: -webkit-radial-gradient(MidnightBlue, Aqua , White);
 }
 
-	 
-	body{
+header{
+
+	border-top: green;
+	border-bottom: green;
+	border-style: dashed;
+	border-left: none;
+	border-right: none;
+
+}	
+body{
 	color: white;
 	
 }
 
 h1{
-	border: 5px dotted black;
+	border: 5px black;
     	padding:35px;
     	background: #FFFFA6;
 	text-align: center;
 	font-style: oblique;
 	text-shadow: 2px 2px 2px blue;
-	font-size: 36px;
+	font-size: 0.4in;
 	border-radius: 15px 45px; 
 	margin-top: 25px;
 	color: black;
 	text-decoration: underline;
 }
-	
+main{
+	border-style: solid
+}
 	
 h2{
-
+	font-size: 20pt;
+	text-decoration: underline;
+	color: black;
 }
 p{
 	border-style: double;
