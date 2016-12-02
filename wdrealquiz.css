@@ -1,0 +1,61 @@
+html{
+	background-color: red;
+	margin-top: 10mm;
+	
+}
+
+header, footer{
+
+	border: blue;
+	text-align: left;
+	float: left, yellow;
+
+}	
+nav{
+	text-decoration: line-through; 
+	color: yellow;
+}
+
+
+body{
+	
+}
+
+h1{
+	border: 5px black;
+    	padding:35px;
+    	background: blue;
+	text-align: center;
+	font-style: ;
+	text-shadow: 2px 2px 2px blue;
+	font-size: 0.4in;
+	margin-top: 25px;
+	color: yellow;
+
+}
+main{
+	border-style: solid;
+	background: white; 
+}
+	
+h2{
+	font-size: 20pt;
+	color: black;
+}
+p{
+	font-family:
+	margin: 35px;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-left: 20px;
+	text-decoration: underline;
+	color: black;
+}
+
+footer{
+	margin: 20px;
+	position: absolute;
+	color: white;
+	background: blue;
+
+}
