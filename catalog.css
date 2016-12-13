@@ -1,24 +1,69 @@
-html{
-	background-color: F5FCB7;
-	
+
+
+html{	
 }
 head{
 }
+
 body{
+	background-color:#9DF19D;
+	padding-left: 20px
+	
 }
 header{
+	background-color:#28BC28;
+	border-style:double;
+	border-width: 10px;
+	border-color: white;
+	text-align: center;
 }
 nav{
+	padding:20px;
+
 }
 main{
+	border: dotted;
 }
-article}
+article{
+	margin: auto;
+	padding: 20px;
+	border: double;
 }
 h1{
+
+	font-family: 'Almendra Display';
+	font-size: 42px;
+	color: white;
+
+}
+h2,h3{
+	text-align: center;
+	font-family:'Aref Ruqaa'; 
 }
 h2{
+	font-size: 30px;
+	color: #FFA12B;
+	text-shadow:3px 3px 3px #FFD49E;
+	
+	
+}
+h3{
+
+	font-size: 28px;
+	text-decoration: underline; 
+
 }
 p{
+	font-size: 15px;
+	font-family: 'Artifika';
+	
+
+}
+img{
+
+	float: left;
+	padding-right: 20px;
 }
 footer{
+	text-align: left;
 }
